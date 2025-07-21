@@ -1,10 +1,10 @@
 # Data Structures in C++
 
-This is a reboot of my Data Structures implementations — a simple, educational project covering the fundamentals of Data Structures using C++.  
-Each implementation is placed in a separate file for better clarity and organization.
+This is a personal repository of my Data Structures implementations — a simple, educational project designed to cover the fundamentals of Data Structures in C++.
+Each implementation is organized in its file for clarity and ease of access.
 
-I'm building this repository step by step as I learn and practice each topic.  
-The goal is to create a personal reference and a helpful resource for others who are learning Data Structures.
+I’m developing this repo incrementally as I learn and practice each topic.
+The goal is to build a reference for myself and a useful resource for others learning Data Structures.
 
 ---
 
